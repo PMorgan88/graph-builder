@@ -1,1 +1,1 @@
-# graph-builder
+Builds a graphical interface for easily building graphs from a correctly formatted text file and then analysing them using known algorithms like dijkstra. Also allows for user input to create graphs on the spot. Supports weighted undirected and weighted directed.
